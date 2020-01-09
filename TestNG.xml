@@ -1,0 +1,10 @@
+<suite name="Suite" Parallel="Tests">
+    <test name="Test">
+        <parameter name="browser" value="Chrome">
+        </parameter>
+        <classes>
+            <class name="FirstRunner">
+            </class>
+        </classes>
+    </test>
+</suite>
