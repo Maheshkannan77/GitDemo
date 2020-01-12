@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c68e45ea-1b31-4ae6-88c2-0c034c7150ac" name="Default Changelist" comment="" />
+    <list default="true" id="c68e45ea-1b31-4ae6-88c2-0c034c7150ac" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestNG.xml" beforeDir="false" afterPath="$PROJECT_DIR$/TestNG.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/SampleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SampleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/Suite/Test.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/Suite/Test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/Suite/Test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/Suite/Test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-TestSuite.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-TestSuite.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TestSuite.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TestSuite.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/SampleTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/SampleTest.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -56,7 +66,7 @@
         <entry file="file://$PROJECT_DIR$/src/test/java/SampleTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="204">
-              <caret line="26" column="43" selection-start-line="26" selection-start-column="43" selection-end-line="26" selection-end-column="43" />
+              <caret line="25" column="43" selection-start-line="25" selection-start-column="43" selection-end-line="25" selection-end-column="43" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -68,7 +78,7 @@
         <entry file="file://$PROJECT_DIR$/TestNG.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
-              <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+              <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -76,8 +86,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/runner/FirstRunner.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="58" selection-start-line="8" selection-start-column="58" selection-end-line="8" selection-end-column="58" />
+            <state relative-caret-position="204">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -124,16 +134,16 @@
         <option value="$PROJECT_DIR$/src/test/java/feature/first.feature" />
         <option value="$PROJECT_DIR$/src/test/java/stepDefinitions/firstStep.java" />
         <option value="$PROJECT_DIR$/src/test/java/feature/firstStep.java" />
-        <option value="$PROJECT_DIR$/src/test/java/SampleTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/stepDefinitions/First.java" />
         <option value="$PROJECT_DIR$/src/main/java/runner/FirstRunner.java" />
         <option value="$PROJECT_DIR$/src/main/java/feature/First.feature" />
         <option value="$PROJECT_DIR$/src/test/java/FirstRunner.java" />
-        <option value="$PROJECT_DIR$/TestNG.xml" />
-        <option value="$PROJECT_DIR$/src/test/java/runner/FirstRunner.java" />
         <option value="$PROJECT_DIR$/src/test/java/stepDefinitions/First.java" />
         <option value="$PROJECT_DIR$/src/test/java/feature/First.feature" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/SampleTest.java" />
+        <option value="$PROJECT_DIR$/TestNG.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/runner/FirstRunner.java" />
       </list>
     </option>
   </component>
@@ -146,8 +156,7 @@
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-10" />
-    <option name="y" value="-10" />
-    <option name="width" value="980" />
+    <option name="width" value="979" />
     <option name="height" value="1040" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -173,7 +182,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../JAVA Project" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -280,6 +289,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="D:/CucumberProject/TestNG.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="CucumberProject" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/TestNG.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SampleTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="CucumberProject" />
       <option name="PACKAGE_NAME" value="" />
@@ -291,16 +310,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="feature" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="SampleTest.myTestMethod" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="CucumberProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="feature.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="feature" />
-      <option name="TEST_OBJECT" value="PACKAGE" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SampleTest" />
+      <option name="METHOD_NAME" value="myTestMethod" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -310,9 +325,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.FirstRunner" />
-        <item itemvalue="Cucumber java.Feature: First" />
-        <item itemvalue="TestNG.feature" />
+        <item itemvalue="TestNG.D:/CucumberProject/TestNG.xml" />
+        <item itemvalue="TestNG.SampleTest.myTestMethod" />
         <item itemvalue="TestNG.SampleTest" />
+        <item itemvalue="Cucumber java.Feature: First" />
       </list>
     </recent_temporary>
   </component>
@@ -330,34 +346,34 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="FirstRunner - 2020.01.08 at 20h 46m 49s.xml">
+    <history-entry file="FirstRunner - 2020.01.12 at 23h 15m 16s.xml">
       <configuration name="FirstRunner" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FirstRunner - 2020.01.08 at 20h 49m 21s.xml">
+    <history-entry file="D__CucumberProject_TestNG_xml - 2020.01.12 at 23h 19m 45s.xml">
+      <configuration name="D:/CucumberProject/TestNG.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="D__CucumberProject_TestNG_xml - 2020.01.12 at 23h 20m 45s.xml">
+      <configuration name="D:/CucumberProject/TestNG.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="D__CucumberProject_TestNG_xml - 2020.01.12 at 23h 21m 50s.xml">
+      <configuration name="D:/CucumberProject/TestNG.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="D__CucumberProject_TestNG_xml - 2020.01.12 at 23h 22m 10s.xml">
+      <configuration name="D:/CucumberProject/TestNG.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="FirstRunner - 2020.01.12 at 23h 22m 19s.xml">
       <configuration name="FirstRunner" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FirstRunner - 2020.01.08 at 20h 58m 32s.xml">
+    <history-entry file="FirstRunner - 2020.01.12 at 23h 22m 44s.xml">
       <configuration name="FirstRunner" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FirstRunner - 2020.01.08 at 20h 59m 02s.xml">
-      <configuration name="FirstRunner" configurationId="JUnit" />
+    <history-entry file="D__CucumberProject_TestNG_xml - 2020.01.12 at 23h 24m 52s.xml">
+      <configuration name="D:/CucumberProject/TestNG.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="FirstRunner - 2020.01.08 at 20h 59m 18s.xml">
-      <configuration name="FirstRunner" configurationId="JUnit" />
+    <history-entry file="D__CucumberProject_TestNG_xml - 2020.01.12 at 23h 27m 51s.xml">
+      <configuration name="D:/CucumberProject/TestNG.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="FirstRunner - 2020.01.08 at 20h 59m 39s.xml">
-      <configuration name="FirstRunner" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FirstRunner - 2020.01.08 at 21h 00m 38s.xml">
-      <configuration name="FirstRunner" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FirstRunner - 2020.01.08 at 21h 00m 59s.xml">
-      <configuration name="FirstRunner" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FirstRunner - 2020.01.08 at 21h 02m 44s.xml">
-      <configuration name="FirstRunner" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FirstRunner - 2020.01.08 at 22h 41m 35s.xml">
+    <history-entry file="FirstRunner - 2020.01.12 at 23h 28m 43s.xml">
       <configuration name="FirstRunner" configurationId="JUnit" />
     </history-entry>
   </component>
@@ -374,7 +390,7 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49932885" visible="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932885" weight="0.3286119" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -431,16 +447,6 @@
     <SUITE FILE_PATH="coverage/CucumberProject$SampleTest.ic" NAME="SampleTest Coverage Results" MODIFIED="1578146455577" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/CucumberProject.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3.jar!/org/testng/SuiteRunnerWorker.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-723">
-          <caret line="8" column="36" lean-forward="true" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/javaStepDefinition/Steps.Java" />
     <entry file="file://$PROJECT_DIR$/src/javaStepDefinition/stepDefTest.substeps" />
     <entry file="file://$PROJECT_DIR$/src/feature/Steps.substeps" />
@@ -451,13 +457,20 @@
     <entry file="file://$PROJECT_DIR$/src/test/java/stepDefinitions/Step" />
     <entry file="file://$PROJECT_DIR$/src/test/java/stepDefinitions/steps.stepdefinition" />
     <entry file="file://$PROJECT_DIR$/src/test/feature/First.feature" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/stepDefinitions/First.java">
+    <entry file="file://$PROJECT_DIR$/CucumberProject.iml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+        <state relative-caret-position="17">
+          <caret line="1" column="33" selection-start-line="1" selection-start-column="33" selection-end-line="1" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3.jar!/org/testng/SuiteRunnerWorker.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="52" selection-start-line="52" selection-end-line="52" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#255#256#0" expanded="true" />
+            <element signature="e#2120#2121#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -469,10 +482,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TestNG.xml">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+        <state relative-caret-position="867">
+          <caret line="51" column="38" selection-start-line="51" selection-start-column="38" selection-end-line="51" selection-end-column="38" />
         </state>
       </provider>
     </entry>
@@ -483,27 +496,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/runner/FirstRunner.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/stepDefinitions/First.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="58" selection-start-line="8" selection-start-column="58" selection-end-line="8" selection-end-column="58" />
+        <state relative-caret-position="119">
+          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#255#256#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="867">
-          <caret line="51" column="38" selection-start-line="51" selection-start-column="38" selection-end-line="51" selection-end-column="38" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/SampleTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
-          <caret line="26" column="43" selection-start-line="26" selection-start-column="43" selection-end-line="26" selection-end-column="43" />
+          <caret line="25" column="43" selection-start-line="25" selection-start-column="43" selection-end-line="25" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestNG.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/runner/FirstRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
