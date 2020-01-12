@@ -20,7 +20,6 @@ public class SampleTest {
 
     @Parameters({"browser"})
     @Test
-
     public void myTestMethod(String browser) {
 
 
