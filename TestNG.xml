@@ -3,7 +3,7 @@
         <parameter name="browser" value="Chrome">
         </parameter>
         <classes>
-            <class name="IntoClass">
+            <class name="FirstRunner">
             </class>
         </classes>
     </test>
