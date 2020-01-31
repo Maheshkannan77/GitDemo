@@ -4,7 +4,7 @@
         <parameter name="browser" value="Chrome">
         </parameter>
         <classes>
-            <class name="SampleTest">
+            <class name="FirstRunner">
             </class>
         </classes>
     </test>
